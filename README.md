@@ -1,4 +1,4 @@
-# Screenshots
+# Raycast(Tinycast) Extention for Screenshots
 
 A macOS extension for Raycast and [Tinycast](https://tinycast.dev/) to quickly find, preview, and manage recent screenshots.
 
