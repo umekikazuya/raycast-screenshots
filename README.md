@@ -2,7 +2,7 @@
 
 A macOS extension for Raycast and [Tinycast](https://tinycast.dev/) to quickly find, preview, and manage recent screenshots.
 
-- - [![Raycast Extension](https://img.shields.io/badge/Raycast-Extension-blue?logo=raycast)](https://raycast.com)
+- [![Raycast Extension](https://img.shields.io/badge/Raycast-Extension-blue?logo=raycast)](https://raycast.com)
 
 ## Key Features
 
@@ -34,9 +34,7 @@ Change these preferences in your launcher's extension settings.
 
 ## Installation (Tinycast)
 
-Use Tinycast's **Import from GitHub** feature with this repository:
-
-<https://github.com/umekikazuya/raycast-screenshots>
+Use Tinycast's **Import from GitHub** feature with this repository: <https://github.com/umekikazuya/raycast-screenshots>
 
 See [Tinycast's installation guide](https://tinycast.dev/docs/extensions/installing/) for requirements and details.
 
