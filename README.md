@@ -34,7 +34,7 @@ Change these preferences in your launcher's extension settings.
 
 ## Installation (Tinycast)
 
-Use Tinycast's **Import from GitHub** feature with this repository: [https://github.com/umekikazuya/raycast-screenshots](umekikazuya/raycast-screenshots)
+Use Tinycast's **Import from GitHub** feature with this repository: [umekikazuya/raycast-screenshots](https://github.com/umekikazuya/raycast-screenshots)
 
 See [Tinycast's installation guide](https://tinycast.dev/docs/extensions/installing/) for requirements and details.
 
