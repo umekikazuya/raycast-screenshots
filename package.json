@@ -16,16 +16,45 @@
     {
       "name": "search-screenshots",
       "title": "Search Screenshots",
-      "subtitle": "",
-      "description": "Search Screenshots",
-      "mode": "no-view"
+      "description": "Browse and manage recent screenshots",
+      "mode": "view"
     },
     {
       "name": "take-screenshots",
       "title": "Take Screenshots",
-      "subtitle": "",
       "description": "Take Screenshots.",
       "mode": "no-view"
+    }
+  ],
+  "preferences": [
+    {
+      "name": "screenshotDirectory",
+      "title": "Screenshot Directory",
+      "description": "Folder to search for screenshots. Defaults to the Desktop.",
+      "type": "directory",
+      "required": false
+    },
+    {
+      "name": "gridItemSize",
+      "title": "Grid Item Size",
+      "description": "Size of screenshot previews in the gallery.",
+      "type": "dropdown",
+      "required": false,
+      "default": "medium",
+      "data": [
+        {
+          "title": "Small",
+          "value": "small"
+        },
+        {
+          "title": "Medium",
+          "value": "medium"
+        },
+        {
+          "title": "Large",
+          "value": "large"
+        }
+      ]
     }
   ],
   "tools": [],
