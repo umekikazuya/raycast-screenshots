@@ -139,13 +139,13 @@ export default function SearchScreenshots() {
           subtitle={new Date(screenshot.createdAt).toLocaleString()}
           actions={
             <ActionPanel>
-              <Action.Open title="Open Screenshot" target={screenshot.path} />
-              <Action.ShowInFinder path={screenshot.path} />
               <Action.CopyToClipboard
                 title="Copy Screenshot to Clipboard"
                 content={{ file: screenshot.path }}
                 icon={Icon.Clipboard}
               />
+              <Action.Open title="Open Screenshot" target={screenshot.path} />
+              <Action.ShowInFinder path={screenshot.path} />
               <Action.Trash
                 paths={screenshot.path}
                 onTrash={() => setScreenshots((current) => current.filter((item) => item.path !== screenshot.path))}
