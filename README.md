@@ -13,6 +13,8 @@ A macOS extension for Raycast and [Tinycast](https://tinycast.dev/) to quickly f
 
 ## Usage
 
+![Raycast Extension for Screenshots](https://raw.githubusercontent.com/umekikazuya/raycast-screenshots/refs/heads/assets/image.png)
+
 1. Run **Search Screenshots** in Raycast or Tinycast.
 2. Type part of a filename to filter the gallery.
 3. Select an image and press `Enter` to copy the file to the clipboard, or open the action panel with `⌘K` for more actions:
